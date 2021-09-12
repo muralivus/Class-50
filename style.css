@@ -1,0 +1,22 @@
+body{
+    background-color: darkgray;
+}
+.header{
+    background-color: darkgoldenrod;
+    display: flex;
+    justify-content: space-between;
+}
+p,h2{
+    text-align: center;
+    color: darkgreen;
+    font-size: larger;
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
